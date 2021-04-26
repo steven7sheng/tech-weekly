@@ -1,3 +1,3 @@
 # tech-weekly
 
-[baooab.github.io/tech-weekly/](https://baooab.github.io/tech-weekly/)
+[steven7sheng.github.io/tech-weekly/](https://steven7sheng.github.io/tech-weekly/)
